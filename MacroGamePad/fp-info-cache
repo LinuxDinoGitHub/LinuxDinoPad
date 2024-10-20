@@ -1,4 +1,4 @@
-23841359765299984
+23849898573922603
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96739,6 +96739,27 @@ Varistor VF
 0
 2
 2
+WS2812B.pretty-master
+WS2812B
+
+
+0
+4
+4
+WS2812B.pretty-master
+WS2812B_data-bridgeable
+
+
+0
+12
+4
+footprints
+1N4148 Diode
+
+
+0
+2
+2
 footprints
 MX-Solderable-1U
 
@@ -96746,6 +96767,20 @@ MX-Solderable-1U
 0
 2
 2
+footprints
+RotaryEncoder_Alps_EC11E_Vertical_H20mm
+Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+4
+footprints
+SSD1306 128x64 OLED
+
+
+0
+4
+4
 footprints
 XIAO-Generic-Hybrid-14P-2.54-21X17.8MM
 

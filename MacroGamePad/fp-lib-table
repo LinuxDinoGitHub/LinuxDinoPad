@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "footprints")(type "KiCad")(uri "C:/Users/Student/Downloads/footprints.pretty")(options "")(descr ""))
   (lib (name "WS2812B.pretty-master")(type "KiCad")(uri "C:/Users/Student/Downloads/WS2812B.pretty/WS2812B.pretty-master")(options "")(descr ""))
+  (lib (name "footprint models")(type "KiCad")(uri "C:/Users/Student/Downloads/footprints and symbols/footprint models")(options "")(descr ""))
 )

@@ -1587,11 +1587,15 @@
 		(uuid "d4139ad5-e082-4721-9792-7f6ccfb2a7c1")
 	)
 	(no_connect
+		(at 119.38 22.86)
+		(uuid "93725609-abb9-4b91-88a2-fe98ec982c49")
+	)
+	(no_connect
 		(at 62.23 86.36)
 		(uuid "9af7dbe2-2f38-4eeb-b300-dd843cf76a05")
 	)
 	(no_connect
-		(at 104.14 78.74)
+		(at 63.5 73.66)
 		(uuid "ef7619a8-1202-474d-8e72-6f8b62cfc608")
 	)
 	(wire
@@ -1952,22 +1956,22 @@
 	)
 	(global_label "Row 1"
 		(shape input)
-		(at 63.5 73.66 180)
+		(at 104.14 78.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "298cf04e-55f6-48ed-a968-dc693c77d2be")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.5882 73.66 0)
+			(at 113.0518 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
